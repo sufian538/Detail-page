@@ -1,0 +1,82 @@
+{
+    "xiaomi": [
+        {
+        "name": "Xiaomi 14",
+        "price": "RS.399,000",
+        "description": "Xiaomi 14 is the triple camera setup, which consists of three 50 MP + 50 MP + 50 MP sensors for good quality photography. Along with them, it offers a single 32 MP selfie camera. The display of this 14 is 6.36 inches bigger, which is an AMOLED capacitive touchscreen and supports the Full HD+ resolution of 1200 x 2670 pixels. It also has the protection of Corning Gorilla Glass Victus. The display of this device has a super-fast fingerprint sensor built into it. The Xiaomi 14's a massive 5000 mAh battery cell that supports super fast charging and gives an impressive standby time with just a single charge",
+        "image": "assets/images/B1.jpg"
+
+        },
+      
+        {
+            "name": "Xiaomi 13T Pro",
+            "description": "Xiaomi 14 is the triple camera setup, which consists of three 50 MP + 50 MP + 50 MP sensors for good quality photography. Along with them, it offers a single 32 MP selfie camera. The display of this 14 is 6.36 inches bigger, which is an AMOLED capacitive touchscreen and supports the Full HD+ resolution of 1200 x 2670 pixels. It also has the protection of Corning Gorilla Glass Victus. The display of this device has a super-fast fingerprint sensor built into it. The Xiaomi 14's a massive 5000 mAh battery cell that supports super fast charging and gives an impressive standby time with just a single charge",
+            "price": "234,999",
+            "image": "assets/images/B2.jpg"
+        },
+        {
+            "name": " Xiaomi 11 Lite 5G NE",
+            "price": "70,999",
+            "description": "Apple is going to unveil iPhone 15 series with the high-end 15 Pro Max variant. Considering that it will be the flagship model of the series, it will have the latest and highest specifications. It is expected to have the latest processor, more RAM, a bigger battery, and a better camera system. It will also have a larger display and support 5G connectivity. Apple's iPhone 15 Pro Max is circulating on the internet, and according to the latest leaked information, the device will feature thinner bezels than its predecessors. The Apple iPhone 15 Pro Max's",
+            "image": "assets/images/B3.jpg"
+        },
+        {
+            "name": "  Xiaomi Poco F6 Pro",
+            "price": "164,999",
+            "description": " let's start with the Xiaomi Poco F6's massive 6.67-inch AMOLED capacitive touchscreen, which is a fully HD display that can support a high resolution of 1440 x 3200 pixels and a smooth refresh rate of 120 Hz. The new Xiaomi's Poco F6 Pro runs on one of the most powerful chipsets, the Snapdragon 8 Gen 2, with the combination of an Octa-Core CPU to deliver extra powerful performance. After that, the Xiaomi F6 Pro offers 12 GB of RAM with 256 GB of internal memory capacity and a dedicated memory card slot to expand the memory in the future.",
+            "image": "assets/images/A3.jpg"
+        }
+    ],
+    "samsung": [
+        {
+            "name": "Samsung Galaxy S24 Ultra ",
+            "price": "434,999",
+            "description": "To find out more about the Samsung Galaxy S24, let's take a closer look at what this device is capable of. There is no doubt that this S24 Ultra has a massive 6.8-inch dynamic AMOLED 2X capacitive touchscreen display that will catch your attention right away. With a mind-blowing resolution of 1440 x 3120 pixels, this S24 Ultra will give you the most incredible viewing experience. Besides the gigantic screen, some of the features that have been added to this display are the Corning Gorilla Glass Armor, 120 Hz, HDR10+, 1750 nits (peak) brightness, and the Always On Display. It is worth mentioning that the Samsung Galaxy's S24 Ultra is powered by Qualcomm's most powerful and durable Snapdragon 8 Gen 3 (4 nm) chipset, which is clocked at 3.39 GHz on an Octa-Core CPU. In the new Galaxy S24 Ultra, there will be Quad camera sensors. The main one will be a 200 MP sensor, and the other two will be 50 MP (periscope telephoto) and 10 MP (telephoto) lenses and 12 MP ultra-wide lense.",
+            "image": "assets/images/S1.jpg"
+        },
+        {
+            "name": "Samsung Galaxy S23 Ultra",
+            "price": "389,999",
+            "description": "Samsung is launching a new Galaxy S23 which has got the moniker Ultra at the end. The smartphone company is working on a new device in its S-series. The newcomer will be a flagship device and will be named Samsung Galaxy S23 Ultra. The smartphone will be powered by Qualcomm Snapdragon 8 Gen 2 chipset. The Chipset of the smartphone is also a flagship chipset that can all the high-end specs with accuracy and ease. The new Samsung's Galaxy S23 Ultra has a 2.8 GHz Octa-Core processor to give more power to this chipset. The device has a 6.8 Inches massive screen size, and the users of this device will be enjoying using it. The Samsung Galaxy S23's going to have a Dynamic AMOLED 2X Capacitive Touchscreen, with a full HD resolution of 1440 x 3088 Pixels under the hood of the new handset.",
+            "image": "assets/images/S2.jpg"
+        },
+        {
+            "name": "Samsung Galaxy S22 Ultra ",
+            "price": "424,999",
+            "description": "The Samsung Galaxy S22's going to have a Dynamic AMOLED 2X Capacitive Touchscreen, with a full HD resolution of 1440 x 3200 Pixels under the hood of the new handset. The Protection of the screen this device has got Corning Gorilla Glass Victus. Also, there is a GPU of Adreno 730. The RAM that is coupled with the SoC is 12 gigabytes. This is the high-end RAM capacity that is used in the Galaxy S22 Ultra by Samsung. Both, the chipset and the RAM will enhance the processing speed of the handset a great deal. The internal storage is 256 gigabytes that is enough to store the data on the Samsung S22 Ultra for the rest of your life. There is a Quad Camera setup in the back of this handset, The main sensor will be 108 megapixels wide, 10 megapixels periscope telephoto, 10 megapixels telephoto, 12 megapixels ultrawide.",
+            "image": "assets/images/B4.jpg"
+        },
+        {
+            "name": "Samsung Galaxy S21 Ultra ",
+            "price": "242,999",
+            "description": "Samsung with its new handset Galaxy S21 Ultra will hit the market to create its impact as the previous series that has got Ultra in the pack became very popular. Well, the smartphone needed to give some time to the previous series. But the coming Samsung Galaxy S21 will be packed with even better specs quality. The chipset that will look after all the functionality of the smartphone is called Exynos 2100, a well known 7+ nm chipset that ensures high-end performance. Samsung's Galaxy S21 is paired with 12 gigabytes of RAM capacity. The 16 gigabytes of RAM capacity have recently been introduced and only a few of the smartphone is packed with such a high-end RAM capacity and the coming Samsung Galaxy S21's going to be one of them. Now, you can imagine the processing and the executing speed of the handset. ",
+            "image": "assets/images/S3.jpg"
+        }
+    ],
+    "Apple": [
+        {
+            "name": "iPhone 15 Pro Max",
+            "price": "474,999",
+            "description": "The Apple iPhone 15 Pro Max's the most powerful Apple A17 Bionic (3 nm) chip with Hexa Core CPU. As a result of these powerful processors, I believe there should be no concern regarding the speed of processing. In addition to 8GB of RAM, the Apple iPhone's 15 Pro Max is expected to come with 256GB of storage options. Furthermore, the new iPhone 15 Pro Max features a larger 6.7-inch Super Retina XDR OLED capacitive touch screen that is already well known for its stunning viewing experience. There will be support for a high resolution of 1290 x 2796 pixels. According to recent news reports, a dynamic island might be included in Apple iPhone 15 Pro Max. On a single charge, the 4441 mAh battery pack is expected to last all day. Further, it is not known whether fast charging will be supported or not. This Apple's iPhone 15 Pro Max is going to have a triple camera setup of 48 MP (wide), 12 MP (telephoto), and 12 MP sensors with a single 12 MP selfie camera. The official launching date has not been unveiled yet so stay with us for more updates. Samsung and all other companies will face this iPhone 15 Pro Max by Apple in near future.",
+            "image": "assets/images/C1.jpg"
+        },
+        {
+            "name": " Apple iPhone 14 Plus",
+            "price": "422,999",
+            "description": "Apple is going to release iphone 14 officially in the global market Plus in the flaship series. In this latest series the customers will see lots of other models like iphone 14, 14 Pro, and 14 Pro Max. This hot device will be the company's latest device never introduced before. According to the latest news Apple Mini series will be replicable by Apple iPhone 14 Plus because Mini series has very low sales in the market. The leaks show that the device will be powered with the bigger battery size of all four models in the iPhone 14 series. You will get an A15 Bionic chip in Apple's iPhone 14 Plus instead of the more advanced A16 Bionic a chip that is said to be unique to the iPhone 14 Pro and iPhone 14 Pro Max .",
+            "image": "assets/images/C2.jpg"
+        },
+        {
+            "name": " Apple iPhone 15",
+            "price": "574,999",
+            "description": "Samsung has launched the new Galaxy Z variant with 12GB of RAM. The Fold 4 has a lot to offer in terms of features. Firstly, we will discuss the display of this flagship smartphone, it comes with a massive 7.6 Inches Foldable Dynamic AMOLED 2X Capacitive Touchscreen that is both durable and slim. With an 1812 x 2176 pixels resolution and 120Hz refresh rate, Samsung Z Fold offers unbeatable display quality. A layer of Corning Gorilla Glass Victus+ is also present to protect the display on both sides of them. The Samsung Galaxy Z's a",
+            "image": "assets/images/C3.jpg"
+        },
+        {
+            "name": " Apple iPhone 15 ",
+            "price": "342,999",
+            "description": "Apple will unveil its new iPhone 13 to the market it is a Pro variant. Apple unveiled its iPhone 12 series in October this year. Apple postpones the iPhone 12 series for ten months because of the COVID-19 virus. But it looks like Apple won't have a problem next year, and the iPhone 13 series should be unveiled traditionally in the ninth month. the upcoming new smartphone will be called Apple iPhone 13 Pro. The smartphone got a Chipset of Apple A15 Bionic which is the most powerful chipset and to give more power to this device it has a (2 + 3.22) Hexa Core processor inside the Apple's iPhone 13 Pro to make the device ultra fast. And also there is a GPU of Apple 8-core graphics under the hood of this smartphone.",
+            "image": "assets/images/C4.jpg"
+        }
+    ]
+}
